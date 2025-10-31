@@ -25,7 +25,6 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado desarrollador en formación,
 📦 Databases:    MySQL | MongoDB
 🔨 Tools:        Git | GitHub | VS Code
 ```
-
 ---
 
 ## 📊 Estadísticas de GitHub
